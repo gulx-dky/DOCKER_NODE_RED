@@ -1,0 +1,2 @@
+# DOCKER_NODE_RED
+NODE_RED_Smarthome
